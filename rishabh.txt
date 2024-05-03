@@ -1,0 +1,8 @@
+bhai yrr pdhlo pls
+
+
+package.json : project ki details
+lock.json : package ki details
+
+
+nodejs single threaded : ek baar me ek hi command run krti hi
